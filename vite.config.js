@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/React-JS-CRUD-Operation-with-Rest-API-using-Axios/',
+  base: '/zustand-tutorial/',
 })
